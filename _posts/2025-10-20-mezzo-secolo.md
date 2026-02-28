@@ -12,7 +12,3 @@ Chi trattiene la propria vita per sé la perderà, giusto?
 Ne ho già le prove tangibili.
 
 Obiettivo: lasciare un cesto ricolmo.
-
-{% if page.comments != false %}
-  {% include disqus.html %}
-{% endif %}

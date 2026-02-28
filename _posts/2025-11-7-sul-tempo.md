@@ -161,8 +161,3 @@ Risorse utili che mi hanno aiutato ad entrare nel mondo della gestione del tempo
   * Deep Work: Rules for Focused Success in a Distracted World  
   * Digital Minimalism: Choosing a Focused Life in a Noisy World  
 * Greg McKeown: Essentialism 
-
-
-{% if page.comments != false %}
-  {% include disqus.html %}
-{% endif %}
